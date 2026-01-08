@@ -1,0 +1,5 @@
+{
+  "name": "Person Age Master",
+  "description": "Ứng dụng tính tuổi chính xác đến từng ngày, cung cấp thông tin lịch sử và tính cách thú vị dựa trên ngày sinh bằng AI.",
+  "requestFramePermissions": []
+}
